@@ -1,0 +1,1 @@
+{"fcnn": {"num_layers": 3, "units": [290, 230], "dropout": [0.1, 0.0], "learning_rate": 0.0001}, "cnn": {"conv_1_filters": 64, "dropout_1": 0.0, "conv_2_filters": 256, "dropout_2": 0.4, "conv_3_filters": 256, "dropout_3": 0.2, "dense_units": 448, "dropout_dense": 0.30000000000000004, "learning_rate": 0.001}}
